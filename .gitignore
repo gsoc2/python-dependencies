@@ -1,0 +1,6 @@
+/.bundle/
+/.env
+/tmp
+/depend-*.gem
+Gemfile.lock
+helpers/install-dir
